@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-fluttertodoappsync-dev-162117-authRole",
+      "UnauthRoleArn": "arn:aws:iam::175286027468:role/amplify-fluttertodoappsync-dev-162117-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::175286027468:role/amplify-fluttertodoappsync-dev-162117-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-fluttertodoappsync-dev-162117-deployment",
+      "UnauthRoleName": "amplify-fluttertodoappsync-dev-162117-unauthRole",
+      "StackName": "amplify-fluttertodoappsync-dev-162117",
+      "StackId": "arn:aws:cloudformation:us-east-1:175286027468:stack/amplify-fluttertodoappsync-dev-162117/c2f0e4c0-4e63-11ee-8222-122c6a8b50c3",
+      "AmplifyAppId": "d3sdbod4vhgj4"
+    },
+    "categories": {
+      "api": {
+        "fluttertodoappsync": {}
+      }
+    }
+  }
+}
